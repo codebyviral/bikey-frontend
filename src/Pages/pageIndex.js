@@ -3,6 +3,4 @@ import HomePage from './HomePage';
 import MobileVerificationPage from './MobileVerificationPage';
 import OTPAuth from './OTPAuth';
 
-const Pages = { DocumentUpload, HomePage, MobileVerificationPage, OTPAuth }
-
-export { Pages };
+export { DocumentUpload, HomePage, MobileVerificationPage, OTPAuth }
