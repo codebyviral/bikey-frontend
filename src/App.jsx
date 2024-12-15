@@ -4,7 +4,7 @@ import {
   MobileVerificationPage,
   OTPAuth,
   DocumentUploadPage,
-} from "./Pages/PageIndex.js";
+} from "./Pages/pageIndex.js";
 import { Toaster } from "react-hot-toast";
 function App() {
   return (
