@@ -1,6 +1,6 @@
 import HomePage from './HomePage';
-import DocumentUpload from './DocumentUpload';
+import DocumentUploadPage from './DocumentUploadPage';
 import MobileVerificationPage from './MobileVerificationPage';
 import OTPAuth from './OTPAuth';
 
-export { DocumentUpload, HomePage, MobileVerificationPage, OTPAuth }
+export { DocumentUploadPage , HomePage, MobileVerificationPage, OTPAuth }
