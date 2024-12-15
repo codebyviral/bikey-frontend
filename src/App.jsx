@@ -6,6 +6,7 @@ import {
   DocumentUploadPage,
 } from "./Pages/pageIndex.js";
 import { Toaster } from "react-hot-toast";
+import { Analytics } from "@vercel/analytics/react"
 function App() {
   return (
     <>
